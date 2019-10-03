@@ -3,7 +3,7 @@
 var dodger = document.getElementById('dodger');
 
 // make it tall so easy to see ...
-dodger.style.height = '250px'
+dodger.style.height = '150px'
 
 function moveDodgerLeft() {
   var leftNumbers = dodger.style.left.replace('px', '');
