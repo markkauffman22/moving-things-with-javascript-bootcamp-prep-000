@@ -3,7 +3,8 @@
 var dodger = document.getElementById('dodger');
 
 // make it tall, pink so easy to see ...
-dodger.style.height = '250px'
+dodger.style.height = '200px'
+
 
 
 function moveDodgerLeft() {
