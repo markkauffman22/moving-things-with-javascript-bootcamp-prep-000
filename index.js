@@ -2,8 +2,9 @@
 
 var dodger = document.getElementById('dodger');
 
-// make it tall so easy to see ...
-dodger.style.height = '150px'
+// make it tall, pink so easy to see ...
+dodger.style.height = '250px'
+
 
 function moveDodgerLeft() {
   var leftNumbers = dodger.style.left.replace('px', '');
