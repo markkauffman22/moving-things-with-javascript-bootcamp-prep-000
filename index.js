@@ -1,5 +1,7 @@
 // Notes only - this does not work yet ... Ideas are right.
 
+var dodger = document.getElementById('dodger');
+
 
 
 function moveDodgerLeft() {
