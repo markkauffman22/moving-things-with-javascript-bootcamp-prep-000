@@ -1,9 +1,5 @@
 // Notes only - this does not work yet ... Ideas are right.
-const DODGER = document.getElementById('dodger');
-const GAME = document.getElementById('game');
-const GAME_HEIGHT = 400;
 
-var gameInterval = null;
 
 document.addEventListener('keydown', function(e) {
   if (e.which === 37) {
