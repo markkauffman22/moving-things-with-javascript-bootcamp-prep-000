@@ -1,4 +1,4 @@
-// Notes only - this does not work yet ... Ideas are right.
+// This works !!  ... Ideas are right.
 
 var dodger = document.getElementById('dodger');
 
