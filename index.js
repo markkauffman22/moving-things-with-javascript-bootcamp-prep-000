@@ -20,7 +20,7 @@ function moveDodgerLeft() {
   
   // don't let it go left of 0 ...
   if (left > 0) {
-    dodger.style.left = `${left - 1}px`;
+    dodger.style.left = `${left - 10}px`;
   }
 }
 
